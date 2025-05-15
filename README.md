@@ -3,5 +3,5 @@
  🛠️ Installation
  
 To install the CTIN2 Emulator on Termux, open Termux and run the following command:
-curl -s -o ~/ctin2-install.sh https://raw.githubusercontent.com/CTIN2-project/CTIN2-emulator-alpha-1.0-/main/install.sh && bash ~/ctin2-install.sh
+~curl -s -o ~/ctin2-install.sh https://raw.githubusercontent.com/CTIN2-project/CTIN2-emulator-alpha-1.0-/main/install.sh && bash ~/ctin2-install.sh~
 type ctin2 to run the emulator
